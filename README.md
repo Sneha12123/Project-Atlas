@@ -1,7 +1,9 @@
-# Project-Atlas
-- Every journey starts somewhere
+# Atlas
+> Every journey starts somewhere
   
 An interactive 3D web experience documenting my journey from Pune to Kerala.
+
+Built with modern web technologies and inspired by airline route maps, digital storytelling, and immersive user experiences.
 
 -- Features --
 
